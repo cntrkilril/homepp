@@ -1,0 +1,46 @@
+{
+    "arr": [
+        {
+            "id": "1",
+            "library": "React",
+            "type": "Framework",
+            "description": "JavaScript - open source library for developing user interfaces. Instagram Facebook, React is developed and supported by a community of individual developers and corporations."
+        },
+        {
+            "id": "2",
+            "library": "History",
+            "type": "Library",
+            "description": "The history library lets you easily manage session history anywhere JavaScript runs. A history object abstracts away the differences in various environments and provides a minimal API that lets you manage the history stack, navigate, and persist state between sessions."
+        },
+        {
+            "id": "3",
+            "library": "Swiper",
+            "type": "Library",
+            "description": "Swiper - is the free and most modern mobile touch slider with hardware accelerated transitions and amazing native behavior. It is intended to be used in mobile websites, mobile web apps, and mobile native/hybrid apps."
+        },
+        {
+            "id": "4",
+            "library": "Color picker",
+            "type": "Library",
+            "description": "Color picker is a library that adds a widget for color management."
+        },
+        {
+            "id": "5",
+            "library": "Postcss",
+            "type": "Library",
+            "description": "PostCSS is a tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more. PostCSS is used by industry leaders including Wikipedia, Twitter, Alibaba, and JetBrains. The Autoprefixer PostCSS plugin is one of the most popular CSS processors.PostCSS takes a CSS file and provides an API to analyze and modify its rules (by transforming them into an Abstract Syntax Tree). This API can then be used by plugins to do a lot of useful things, e.g., to find errors automatically, or to insert vendor prefixes.  "
+        },
+        {
+            "id": "6",
+            "library": "Autoprefixer",
+            "type": "Library",
+            "description": "PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use. It is recommended by Google and used in Twitter and Alibaba."
+        },
+        {
+            "id": "7",
+            "library": "TailwindCSS",
+            "type": "Library",
+            "description": "A utility-first CSS framework for rapidly building custom user interfaces."
+        }
+    ]
+}
