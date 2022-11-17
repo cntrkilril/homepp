@@ -1,1 +1,0 @@
-export const API_KEY = 'http://31.172.78.197/api/v1'
