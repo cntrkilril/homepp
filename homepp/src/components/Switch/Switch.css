@@ -1,0 +1,40 @@
+.slider::before {
+    position: absolute;
+    content: '';
+    height: 17px;
+    width: 17px;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 4px;
+    border-radius: 50%;
+    transition: 0.4s;
+    background-color: white;
+}
+
+.orange {
+    background-color: #FFD34F;
+}
+
+.purple {
+    background-color: #641BC1;
+}
+
+.pink {
+    background-color: #A61976;
+}
+
+.green {
+    background-color: #08AC83;
+}
+
+.dark::before {
+    background-color: #5F6868
+}
+
+.dark {
+    background-color: #242627;
+}
+
+input:checked+.slider:before {
+    transform: translate(18px, -50%);
+}

@@ -1,0 +1,12 @@
+import React from 'react';
+
+const Lights = () => {
+    return (
+        <svg className="w-25px h-36px fill-none" viewBox="0 0 25 36" xmlns="http://www.w3.org/2000/svg">
+            <path className="stroke-current text-add_dark dark:text-green" d="M23.8232 12.6817C23.8373 10.6108 23.3058 8.5739 22.2841 6.78235C21.2623 4.99081 19.7875 3.50996 18.0128 2.49353C16.238 1.47711 14.2279 0.962166 12.1913 1.00216C10.1547 1.04216 8.16571 1.63564 6.43087 2.721C4.69603 3.80635 3.27858 5.344 2.32566 7.17433C1.37275 9.00465 0.919104 11.0609 1.01183 13.1297C1.10456 15.1984 1.74028 17.2042 2.85299 18.9389C4.83998 22.0364 6.01636 23.1751 6.01636 26.8614C6.01636 27.2032 6.14995 27.5311 6.38774 27.7729C6.62553 28.0146 6.94805 28.1504 7.28433 28.1504H17.5386C17.8749 28.1504 18.1974 28.0146 18.4352 27.7729C18.673 27.5311 18.8065 27.2032 18.8065 26.8614C18.8065 23.0862 20.1225 21.9656 22.0964 18.7549C23.2164 16.9331 23.8144 14.8299 23.8232 12.6817Z" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+            <path className="stroke-current text-add_dark dark:text-green" d="M8.93213 34.6306L15.8915 34.6306" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+        </svg>
+    );
+};
+
+export default Lights;
